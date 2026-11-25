@@ -5,8 +5,8 @@
   "version_code": 1,
   "mandatory": true,
   "is_mandatory": true,
-  "download_url": "https://github.com/lourencecabangal69-create/alph1tech-releases/releases/download/pinoy-tech-loader-release/PinoyTech.Loader.V4.5.0.exe",
-  "sha256": "fbca96fa1e195064059f83fce0e5d93a1bb7c9b074e6c749a5f563fb9d35d6a8",
-  "updated_at": "2026-11-25T12:17:26.9179610\u002B00:00",
+  "download_url": "https://github.com/lourencecabangal69-create/alph1tech-releases/releases/download/pinoy-tech-loader-v4.5.0-new/PinoyTechLoader.exe",
+  "sha256": "11a1a0fc6b0d416f66d87628bfbce6c2dcda6e584ae09726c625a9122b26c38c",
+  "updated_at": "2026-11-25T16:37:53.6119013\u002B00:00",
   "min_version": "0.0.0"
 }
